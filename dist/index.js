@@ -1,0 +1,1 @@
+"use strict";console.log("Hi");var abc=function(){console.log("TEST")};abc();
